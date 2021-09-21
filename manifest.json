@@ -1,0 +1,8 @@
+{
+  "domain": "timetree",
+  "name": "TimeTree Calendar",
+  "documentation": "none",
+  "issue_tracker": "none",
+  "codeowners": ["Michael Polke"],
+  "version": "0.0.1"
+}
