@@ -14,5 +14,16 @@ search for self._entities = timetree_object.get_upcoming_events(self._calendar.i
 in Calendar.py and change it accordingly
 
 
+Create a Folder with the name: timetree in Config/custom_components
+paste the files into it.
+
+Dont forget to add:
+
+calendar:
+  - platform: timetree
+
+To your Configuration.yaml
+
+
 Credits: 
 TimeTree SDK (https://pypi.org/project/timetree-sdk/) has been created by Shoya Shiraki under the MIT License
