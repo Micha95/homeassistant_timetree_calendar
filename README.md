@@ -1,6 +1,10 @@
 "# homeassistant_timetree_calendar" 
 
 
+Doesnt work anymore !
+As i am no longer using timetree ( switched to whole Apple Ecosystem ) there is no need for me to fix the issues !
+
+
 Create your Token here: https://timetreeapp.com/developers/personal_access_tokens
 
 After that, replace the 'YOURAPIKEY' in Calendar.py with your Token
